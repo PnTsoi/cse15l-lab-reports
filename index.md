@@ -8,7 +8,7 @@ Hello World!
 
 [( ͡° ͜ʖ ͡°)](https://google.com)
 
-![Image of a dog :))]()
+![Image of a dog :))](./cat.jpg/)
 
 > "helluuuuu testing blockquote"
 
