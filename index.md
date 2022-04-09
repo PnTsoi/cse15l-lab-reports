@@ -1,6 +1,6 @@
 Hello World!
 # Main page
-[Phu's main page]()
+[Phu's main page](https://pntsoi.github.io/cse15l-lab-reports/)
 
 
 #  Lab 1 Report
