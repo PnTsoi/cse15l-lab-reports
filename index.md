@@ -1,10 +1,22 @@
 Hello World!
-# heading 1
+# Main page
+[Phu's main page]()
 
-**aaaaaaaaaaaaa**
+
+#  Lab 1 Report
+
+[Lab 1 Report](https://pntsoi.github.io/cse15l-lab-reports/lab-report-1-week-2)
+
+# nextindex page
+[Next index](https://pntsoi.github.io/cse15l-lab-reports/nextindex)
+
+
+# Other shenanigans
+
+
 *italicized ( ͡° ͜ʖ ͡°)*
 
-## ( ͡👁️ ͜ʖ ͡👁️) heading 2
+
 
 [( ͡° ͜ʖ ͡°)](https://google.com)
 
