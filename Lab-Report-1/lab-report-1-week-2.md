@@ -1,6 +1,6 @@
 #LAB REPORT WEEK 2 🚨🚨🚨🚨🚨
 
-![Doggo](/Pictures/cat.jpg/)
+![Doggo](~/Pictures/cat.jpg/)
 # Index of other pages:
 ## Main page
 [Phu's main page](https://pntsoi.github.io/cse15l-lab-reports/)
@@ -18,7 +18,8 @@
 ## Installing VS code:
 Start by accessing this [website](https://code.visualstudio.com/) and click on Download for Windows:
 
-![VS code webpage](/Pictures/VS-code-webpage.jpg)
+![VS code webpage](~/Pictures/VS-code-webpage.jpg)
 
 After that, follow the steps and install it, you should be able to see this screen after you succeed:
-![Installed VS code](~/Pictures/)
+![Installed VS code](~/Pictures/VS-code-installed.jpg)
+
