@@ -1,20 +1,14 @@
-Hello World!
-# Main page
+# The Indexes
+## Main page
 [Phu's main page](https://pntsoi.github.io/cse15l-lab-reports/)
 
 
-#  Lab 1 Report
+##  Lab 1 Report
 
-*Style with linking to the file:*
+[Lab 1 Report](/Lab-Report-1/lab-report-1-week-2.md)
 
-[Lab 1 Report](lab-report-1-week-2.md)
-
-*Other style with full link:*
-
-[Lab Report 1](https://pntsoi.github.io/cse15l-lab-reports/lab-report-1-week-2)
-
-# nextindex page
-[Next index](https://pntsoi.github.io/cse15l-lab-reports/nextindex)
+## nextindex page
+[Next index](/nextindex.md)
 
 
 # Other shenanigans
@@ -26,7 +20,7 @@ Hello World!
 
 [( ͡° ͜ʖ ͡°)](https://google.com)
 
-![Image of a seal :))](./seal.jpg/)
+![Image of a seal :))](/Pictures/seal.jpg/)
 
 > "helluuuuu testing blockquote"
 
