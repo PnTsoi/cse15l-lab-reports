@@ -7,7 +7,7 @@
 
 ##  Lab 1 Report
 
-[Lab Report 1](./lab-report-1-week-2.md)
+[Lab Report 1](./Lab-Report-1/lab-report-1-week-2.md)
 
 ## nextindex page
 [Next index](../nextindex.md)
