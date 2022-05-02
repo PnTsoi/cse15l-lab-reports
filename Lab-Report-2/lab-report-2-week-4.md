@@ -15,7 +15,7 @@ This is because the code finds the index of the ")" character after the first ap
 
 ## Second symptom: infinite loop after end of file
 
-The initial test-file.md causes this failure because there is an end line symbol at the end of the file, causing the program to stuck in infinite loop. For this and the first symptom, I used one commit for both of them. Do note that test-file3.md looks a lot like test-file2.md on github, but if you actually download the 2 files down into your computer, you'll see that test-file3.md has a end line character at the end of the file. This character is also what causes the symptom.
+The initial test-file.md causes this failure because there is an end line symbol at the end of the file, causing the program to stuck in infinite loop. Do note that test-file3.md looks a lot like test-file2.md on github, but if you actually download the 2 files down into your computer, you'll see that test-file3.md has a end line character at the end of the file. This character is also what causes the symptom.
 [Link to the test that induce the failure](https://github.com/PnTsoi/markdown-parser/blob/main/test-file3.md)
 
 This is the code change to fix this bug:
@@ -41,4 +41,4 @@ The code change for this is here:
 
 ![code change for third symptom](../Pictures/code_diff_third_symptom.jpg)
 
-This is because the initial code doesn't consider what content is within between the brackets and parantheses, so they allow the code to consider empty content in the bracket will. I fix this by consider whether the next index of the index of the first bracket will be the index of the second bracket. 
+This is because the initial code doesn't consider what content is within between the brackets and parantheses, so they allow the code to consider empty content in the bracket as a valid link. I fix this by consider whether the next index of the index of the first bracket will be the index of the second bracket. If it is, then there is no link here since the bracket is empty. 
