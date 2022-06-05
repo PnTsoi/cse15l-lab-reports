@@ -8,6 +8,10 @@
 
 [Lab report 3](./../Lab-Report-3/lab-report-3-week-6.md)
 
+[Lab Report 4](./../Lab-Report-4/lab-report-4-week-8.md)
+
+[Lab Report 5](./../Lab-Report-5/lab-report-5-week-10.md)
+
 # Links to Repositories
 ### [Link to my markdown-parse repository]()
 

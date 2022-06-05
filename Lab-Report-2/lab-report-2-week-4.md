@@ -1,5 +1,17 @@
 # Lab Report 2 Week 4 🚨🚨🚨🚨
 
+## Lab Reports:
+
+[Lab Report 1](./../Lab-Report-1/lab-report-1-week-2.md)
+
+[Lab Report 2](./../Lab-Report-2/lab-report-2-week-4.md)
+
+[Lab report 3](./../Lab-Report-3/lab-report-3-week-6.md)
+
+[Lab Report 4](./../Lab-Report-4/lab-report-4-week-8.md)
+
+[Lab Report 5](./../Lab-Report-5/lab-report-5-week-10.md)
+
 ## First symptom: Escape character ")"
 
 While testing the code, we notice that running the code against a test file that includes ")" in between "()" will cause the program to escape prematurely, causing the actual link to be incomplete. [Link to the test that induce the failure](https://github.com/PnTsoi/markdown-parser/blob/main/test-file2.md)
