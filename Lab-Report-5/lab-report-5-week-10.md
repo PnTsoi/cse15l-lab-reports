@@ -41,7 +41,7 @@ While the reference implementation gives: ```[]```
 
 ![theirrun41](./../Pictures/Lab-5/theirrun41.jpg)
 
-So we can see that my implementation give the wrong result, because in reality, ```url "tit"``` is not considered a link in the VS Code Preview. This also means that the reference implementation gives the correct result.
+So we can see that my implementation give the wrong result, because in reality, ```url &quot;tit&quot;``` is not considered a link in the VS Code Preview. This also means that the reference implementation gives the correct result.
 
 ### 41.md Bug:
 
