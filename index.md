@@ -17,8 +17,9 @@
 ## Lab report 4 Week 8
 [Lab Report 4](/Lab-Report-4/lab-report-4-week-8.md)
 
-## nextindex page
-[Next index](/nextindex.md)
+## Lab report 5 week 10
+[Lab Report 5](./Lab-Report-5/lab-report-5-week-10.md)
+
 
 
 # Other shenanigans
